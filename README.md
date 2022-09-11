@@ -1,5 +1,5 @@
 
-## Search_Image
+## ImageApp
 <p>This is an image searching app where one can easily search different types of images from any category or style with just one click.
 </p>
 
